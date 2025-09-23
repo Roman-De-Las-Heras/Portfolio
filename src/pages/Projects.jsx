@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
 import ProjectCard from "../components/ProjectCard";
+import projectsData from "../data/projects.json";
 
 const Projects = () => {
   const [projects, setProjects] = useState([]);
 
   useEffect(() => {
-    import("../data/projects.json").then((data) => setProjects(data.default));
+    setProjects(projectsData);
   }, []);
 
   return (
