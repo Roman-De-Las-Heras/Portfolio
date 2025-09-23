@@ -23,7 +23,7 @@ const ProjectCard = ({ project }) => (
       <a
         href={project.github}
         target="_blank"
-        rel="noopener"
+        rel="noopener noreferrer"
         className="flex items-center gap-1 text-gray-700 dark:text-gray-200 hover:text-blue-500"
       >
         <Github size={18} /> Code
@@ -31,7 +31,7 @@ const ProjectCard = ({ project }) => (
       <a
         href={project.demo}
         target="_blank"
-        rel="noopener"
+        rel="noopener noreferrer"
         className="flex items-center gap-1 text-gray-700 dark:text-gray-200 hover:text-green-500"
       >
         <ExternalLink size={18} /> Demo
