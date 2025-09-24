@@ -4,7 +4,7 @@
     "description": "A task manager built with React and Firebase.",
     "image": "https://res.cloudinary.com/dkjrqu5dt/image/upload/v1758666218/9584876_u17c4g.webp",
     "github": "https://github.com/yourusername/todo-app",
-    "demo": "https://todo.yourdomain.com",
+    "demo": "https://roman-dlh.com",
     "tags": ["React", "Firebase"]
   },
   {
@@ -12,7 +12,7 @@
     "description": "Backend service for user management.",
     "image": "https://res.cloudinary.com/dkjrqu5dt/image/upload/v1758666218/9584876_u17c4g.webp",
     "github": "https://github.com/yourusername/java-api",
-    "demo": "https://api.yourdomain.com",
+    "demo": "https://roman-dlh.com",
     "tags": ["Java", "Spring Boot"]
   }
 ]
