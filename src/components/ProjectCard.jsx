@@ -6,6 +6,7 @@ const ProjectCard = ({ project }) => (
       src={project.image}
       alt={project.name}
       className="rounded-lg mb-3 w-full"
+      style={{ backgroundColor: project.imageBg || "transparent" }}
     />
     <h2 className="text-xl font-bold">{project.name}</h2>
     <p className="text-gray-600 dark:text-gray-300">{project.description}</p>

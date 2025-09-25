@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import ProjectCard from "../components/ProjectCard";
 import projectsData from "../data/projects.json";
 import TechIcons from "../components/TechIcons";
+import AboutMeCard from "../components/AboutMeCard";
 
 const Projects = () => {
   const [projects, setProjects] = useState([]);
@@ -12,6 +13,9 @@ const Projects = () => {
 
   return (
     <div className="container mx-auto px-4 py-10">
+      <div className="text-center mb-10">
+        <AboutMeCard />
+      </div>
       <div className="text-center mb-10">
         <TechIcons />
       </div>
