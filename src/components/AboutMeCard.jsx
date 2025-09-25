@@ -13,7 +13,7 @@ const AboutMeCard = () => {
         <br />
         <br />
         Disfruto diseñando arquitecturas limpias, colaborando estrechamente con
-        otros, tanto miembros backend como los del frontend y participando en
+        otros, tanto con miembros del backend como con los del frontend y participando en
         proyectos de principio a fin. Mi objetivo es crear soluciones
         eficientes, mantenibles.
       </p>
