@@ -6,5 +6,37 @@
     "github": "https://github.com/Roman-De-Las-Heras",
     "demo": "https://roman-dlh.com",
     "tags": ["Etiqueta 1", "Etiqueta 2", "Etiqueta 3"]
+  },
+  {
+    "name": "Example Project",
+    "description": "Descripción del proyecto de ejemplo.",
+    "image": "https://res.cloudinary.com/dkjrqu5dt/image/upload/v1758666218/9584876_u17c4g.webp",
+    "github": "https://github.com/Roman-De-Las-Heras",
+    "demo": "https://roman-dlh.com",
+    "tags": ["Etiqueta 1", "Etiqueta 2", "Etiqueta 3"]
+  },
+  {
+    "name": "Example Project",
+    "description": "Descripción del proyecto de ejemplo.",
+    "image": "https://res.cloudinary.com/dkjrqu5dt/image/upload/v1758666218/9584876_u17c4g.webp",
+    "github": "https://github.com/Roman-De-Las-Heras",
+    "demo": "https://roman-dlh.com",
+    "tags": ["Etiqueta 1", "Etiqueta 2", "Etiqueta 3"]
+  },
+  {
+    "name": "Example Project",
+    "description": "Descripción del proyecto de ejemplo.",
+    "image": "https://res.cloudinary.com/dkjrqu5dt/image/upload/v1758666218/9584876_u17c4g.webp",
+    "github": "https://github.com/Roman-De-Las-Heras",
+    "demo": "https://roman-dlh.com",
+    "tags": ["Etiqueta 1", "Etiqueta 2", "Etiqueta 3"]
+  },
+  {
+    "name": "Example Project",
+    "description": "Descripción del proyecto de ejemplo.",
+    "image": "https://res.cloudinary.com/dkjrqu5dt/image/upload/v1758666218/9584876_u17c4g.webp",
+    "github": "https://github.com/Roman-De-Las-Heras",
+    "demo": "https://roman-dlh.com",
+    "tags": ["Etiqueta 1", "Etiqueta 2", "Etiqueta 3"]
   }
 ]
