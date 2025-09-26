@@ -4,6 +4,8 @@ import projectsData from "../data/projects.json";
 import TechIcons from "../components/TechIcons";
 import AboutMeCard from "../components/AboutMeCard";
 
+import PhotoCard from "../components/PhotoCard";
+
 const Projects = () => {
   const [projects, setProjects] = useState([]);
 
@@ -13,8 +15,9 @@ const Projects = () => {
 
   return (
     <div className="container mx-auto px-4 py-10">
-      <div className="text-center mb-10">
+      <div className="text-center mb-10 flex items-center justify-center gap-10 flex-col md:flex-row">
         <AboutMeCard />
+        <PhotoCard />
       </div>
       <div className="text-center mb-10">
         <TechIcons />

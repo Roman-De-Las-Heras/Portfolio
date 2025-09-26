@@ -13,13 +13,10 @@ const AboutMeCard = () => {
         <br />
         <br />
         Disfruto diseñando arquitecturas limpias, colaborando estrechamente con
-        otros, tanto con miembros del backend como con los del frontend y participando en
-        proyectos de principio a fin. Mi objetivo es crear soluciones
-        eficientes, mantenibles.
+        otros, tanto con miembros del backend como con los del frontend y
+        participando en proyectos de principio a fin. Mi objetivo es crear
+        soluciones eficientes, mantenibles.
       </p>
-
-      <p style={styles.quote}>"Con lo que programes hoy, trabajarás mañana."</p>
-      <p style={styles.quote}> - Román De Las Heras</p>
     </div>
   );
 };
@@ -37,17 +34,12 @@ const styles = {
   title: {
     fontSize: "24px",
     marginBottom: "8px",
-    color: "#333",
+    color: "#000",
   },
   text: {
     fontSize: "16px",
-    color: "#555",
+    color: "#222",
     lineHeight: "1.5",
-  },
-  quote: {
-    fontStyle: "italic",
-    marginTop: "12px",
-    color: "#777",
   },
 };
 
