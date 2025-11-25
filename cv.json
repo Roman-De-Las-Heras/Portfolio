@@ -221,7 +221,8 @@
       "isActive": true,
       "description": "Web app en desarrollo activo para llevar el control de las finanzas personales y objetivos de ahorro. en su versión final permitirá registrar ingresos y gastos, categorizar transacciones, generar informes visuales y establecer metas financieras. Construida con React, Next.js, Tailwind CSS y PostgreSQL.",
       "highlights": ["Aplicación de gestión de gastos", "En desarrollo"],
-      "url": "https://github.com/Roman-De-Las-Heras"
+      "url": "https://github.com/Roman-De-Las-Heras",
+      "github": "https://github.com/Roman-De-Las-Heras"
     }
   ]
 }
