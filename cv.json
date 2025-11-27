@@ -82,6 +82,23 @@
       "endDate": "2024-06-21",
       "score": "7.5",
       "courses": ["Java", "MySql", "MongoDB", "springBoot", "Android Studio"]
+    },
+    {
+      "institution": "IES Sierra de Guara",
+      "url": "https://iessierradeguara.com/wordpress/informatica/",
+      "area": "Grado medio en Gestión Administrativa",
+      "studyType": "Grado medio",
+      "startDate": "2020-09-15",
+      "endDate": "2022-06-21",
+      "score": "7.5",
+      "courses": [
+        "Java",
+        "MySql",
+        "MongoDB",
+        "springBoot",
+        "Android Studio",
+        "HeidiSQL"
+      ]
     }
   ],
   "awards": [
@@ -240,7 +257,7 @@
     {
       "name": "Exin Tracker",
       "isActive": true,
-      "description": "Web app en desarrollo activo para llevar el control de las finanzas personales y objetivos de ahorro. en su versión final permitirá registrar ingresos y gastos, categorizar transacciones, generar informes visuales y establecer metas financieras. Construida con React, Next.js, Tailwind CSS y PostgreSQL.",
+      "description": "Web app en desarrollo activo para llevar el control de las finanzas personales y objetivos de ahorro. en su versión final permitirá registrar ingresos y gastos, categorizar transacciones, generar informes visuales y establecer metas financieras. Construida con React, Express.js, Tailwind CSS y PostgreSQL.",
       "highlights": ["Aplicación de gestión de gastos", "En desarrollo"],
       "url": "https://github.com/Roman-De-Las-Heras",
       "github": "https://github.com/Roman-De-Las-Heras"
