@@ -5,7 +5,7 @@
     "image": "/me.webp",
     "email": "romanraldhc1@gmail.com",
     "url": "https://roman-dlh.com",
-    "summary": "+2 años de experiencia como Desarrollador Backend. Actualmente trabajo en PetroShore Compliance. Vivo en Huesca, España abierto a movilidad. He trabajado en entornos muy diferentes: desde deloitte con salesforce (apex) hasta desarrollo web en PetroShore Compliance con JavaScript y Node.js pasando por projectos personales para aprender otras tecnologías y afinar mis conocimientos. Entre mis habillidades está el inglés a nivel avanzado (B2 Cambridge) gracias al cual, pude ir de Erasmus a Irlanda en 2022.",
+    "summary": "+2 años de experiencia como Desarrollador Backend. Vivo en Huesca, España y abierto a movilidad. He trabajado en entornos muy diferentes: desde deloitte con salesforce (apex) hasta desarrollo web en PetroShore Compliance con JavaScript y Node.js pasando por projectos personales para aprender otras tecnologías y afinar mis conocimientos. Entre mis habillidades está el inglés a nivel avanzado (B2 Cambridge) gracias al cual, pude ir de Erasmus a Irlanda en 2022. Vehiculo propio (Permiso B).",
     "location": {
       "address": "",
       "postalCode": "22006",
@@ -143,16 +143,6 @@
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
-      "name": "Tailwind",
-      "level": "Beginner",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
@@ -229,6 +219,21 @@
       "name": "React",
       "level": "Beginner",
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Apex",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "LWC",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "Apex",
+      "level": "Beginner",
+      "keywords": []
     }
   ],
   "languages": [
