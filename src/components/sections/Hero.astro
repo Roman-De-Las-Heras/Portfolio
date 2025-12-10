@@ -42,6 +42,8 @@ const printInfo = [email, phone, linkedUrl].filter(Boolean).join(" • ")
             <a
               href={`mailto:${email}`}
               title={`Enviar un correo electrónico a ${name} al correo ${email}`}
+              target="_blank"
+              rel="noopener noreferrer"
             >
               <Mail />
             </a>
