@@ -1,12 +1,11 @@
 {
   "basics": {
     "name": "Román De Las Heras",
-    "label": "Backend Developer con 4+ años de experiencia",
+    "label": "Backend Developer con 2+ años de experiencia",
     "image": "/me.webp",
     "email": "romanraldhc1@gmail.com",
-    "phone": "+34 697758868",
     "url": "https://roman-dlh.com",
-    "summary": "+4 años de experiencia como Desarrollador Backend. Actualmente trabajo en PetroShore Compliance. Vivo en Huesca, España abierto a movilidad. He trabajado en entornos muy diferentes: desde deloitte con salesforce (apex) hasta desarrollo web en PetroShore Compliance con JavaScript y Node.js pasando por projectos personales para aprender otras tecnologías y afinar mis conocimientos.",
+    "summary": "+2 años de experiencia como Desarrollador Backend. Vivo en Huesca, España y abierto a movilidad. He trabajado en entornos muy diferentes: desde deloitte con salesforce (apex) hasta desarrollo web en PetroShore Compliance con JavaScript y Node.js pasando por projectos personales para aprender otras tecnologías y afinar mis conocimientos. Entre mis habillidades está el inglés a nivel avanzado (B2 Cambridge) gracias al cual, pude ir de Erasmus a Irlanda en 2022. Vehiculo propio (Permiso B).",
     "location": {
       "address": "",
       "postalCode": "22006",
@@ -64,7 +63,7 @@
     {
       "institution": "Salesforce",
       "url": "https://www.salesforce.com/trailblazer/rdelasheras",
-      "area": "Salesforce - Apex Development",
+      "area": "Salesforce - Apex Development; Supersets: App Builder, Developer y Admin; 35+ Superbadges",
       "studyType": "Certificación",
       "startDate": "2024-04-01",
       "endDate": "2024-09-30",
@@ -83,6 +82,23 @@
       "endDate": "2024-06-21",
       "score": "7.5",
       "courses": ["Java", "MySql", "MongoDB", "springBoot", "Android Studio"]
+    },
+    {
+      "institution": "IES Sierra de Guara",
+      "url": "https://iessierradeguara.com/wordpress/informatica/",
+      "area": "Grado medio en Gestión Administrativa",
+      "studyType": "Grado medio",
+      "startDate": "2020-09-15",
+      "endDate": "2022-06-21",
+      "score": "7.5",
+      "courses": [
+        "Java",
+        "MySql",
+        "MongoDB",
+        "springBoot",
+        "Android Studio",
+        "HeidiSQL"
+      ]
     }
   ],
   "awards": [
@@ -127,16 +143,6 @@
       "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
-      "name": "Tailwind",
-      "level": "Beginner",
-      "keywords": [
-        "Desarrollo Web",
-        "Frontend",
-        "CSS Framework",
-        "Diseño Responsive"
-      ]
-    },
-    {
       "name": "TypeScript",
       "level": "Advanced",
       "keywords": [
@@ -177,7 +183,29 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Express.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "Prisma",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "PostgreSQL",
       "level": "Avanzado",
       "keywords": [
         "Desarrollo Web",
@@ -191,6 +219,16 @@
       "name": "React",
       "level": "Beginner",
       "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Apex",
+      "level": "Beginner",
+      "keywords": []
+    },
+    {
+      "name": "LWC",
+      "level": "Beginner",
+      "keywords": []
     }
   ],
   "languages": [
@@ -217,51 +255,12 @@
   ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "Exin Tracker",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
-      "highlights": ["Elige tu propia aventura", "En desarrollo"],
-      "url": "https://mars.codes"
-    },
-    {
-      "name": "AdventJS",
-      "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
-      "highlights": [
-        "+1 millón de visitas",
-        "Multidioma",
-        "JavaScript & TypeScript"
-      ],
-      "url": "https://adventjs.dev"
-    },
-    {
-      "name": "Codember",
-      "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": ["+2000 usuarios activos", "Retos para cualquier lenguaje"],
-      "url": "https://codember.dev"
-    },
-    {
-      "name": "codi.link",
-      "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": ["100k visitas al mes", "Desarrollado por la comunidad"],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
-    },
-    {
-      "name": "Pruebas Técnicas",
-      "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": ["100% gratuito", "+500 soluciones de la comunidad"],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
-    },
-    {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": ["+15k tickets repartidos", "+50k espectadores en directo"],
-      "url": "https://miduconf.com"
+      "description": "Web app en desarrollo activo para llevar el control de las finanzas personales y objetivos de ahorro. en su versión final permitirá registrar ingresos y gastos, categorizar transacciones, generar informes visuales y establecer metas financieras. Construida con React, Express.js, Tailwind CSS y PostgreSQL.",
+      "highlights": ["Aplicación de gestión de gastos", "En desarrollo"],
+      "url": "https://github.com/Roman-De-Las-Heras",
+      "github": "https://github.com/Roman-De-Las-Heras"
     }
   ]
 }
